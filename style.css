@@ -1,0 +1,35 @@
+body{
+    color: white;
+}
+
+.contact{
+
+}
+form{
+    margin-left: 0px;
+    padding: 6em 15em;
+}
+form > h2{
+    padding-left: 50px;
+}
+input[type="submit"]{
+    width: 100%;
+    background-color: white;
+    color: black;
+    height: 30px;
+    border: none;
+}
+input[type="text"]{
+    width: 100%;
+    background-color: white;
+    color: black;
+    height: 30px;
+}
+textarea{
+    width: 100%;
+    height: 60px;
+}
+input[type="submit"]:hover{
+    background-color: cornflowerblue;
+    color: wheat;
+}
